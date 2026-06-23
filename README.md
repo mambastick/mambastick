@@ -43,11 +43,6 @@ I design and run infrastructure for ML and software teams: from reproducible env
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Cleanarr](https://github.com/mambastick/Cleanarr) | Cascade media cleanup for Radarr, Sonarr, Jellyseerr, qBittorrent, and Jellyfin. | Python, automation |
-| [serilog-sinks-telegram](https://github.com/mambastick/serilog-sinks-telegram) | Serilog sink for sending application logs to Telegram chats or groups. | C#, .NET, logging |
-| [MConsoleTools](https://github.com/mambastick/MConsoleTools) | Terminal UI helpers for building console applications. | C#, console UI |
-| [MCache](https://github.com/mambastick/MCache) | Lightweight caching library for application data. | C#, library |
-| [netology-devops](https://github.com/mambastick/netology-devops) | DevOps engineering coursework and practice repository. | Java, DevOps |
-| [ter-homeworks](https://github.com/mambastick/ter-homeworks) | Terraform practice projects and infrastructure exercises. | HCL, Terraform |
 
 ### Current Focus
 
@@ -66,8 +61,5 @@ Developer tooling   Observability        Reliable delivery systems
 <p align="center">
   <a href="https://github.com/mambastick/Cleanarr">
     <img alt="Cleanarr repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=mambastick&repo=Cleanarr&hide_border=true&theme=github_dark">
-  </a>
-  <a href="https://github.com/mambastick/serilog-sinks-telegram">
-    <img alt="serilog-sinks-telegram repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=mambastick&repo=serilog-sinks-telegram&hide_border=true&theme=github_dark">
   </a>
 </p>
