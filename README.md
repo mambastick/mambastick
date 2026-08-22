@@ -1,7 +1,7 @@
 <h1 align="center">Eugene Neelov</h1>
 
 <p align="center">
-  <strong>Lead MLOps Engineer</strong><br>
+  <strong>DevOps/MLOps Engineer</strong><br>
   Building scalable AI/ML infrastructure, automation pipelines, and self-hosted platforms.
 </p>
 <p align="center">
