@@ -1,8 +1,8 @@
 <h1 align="center">Eugene Neelov</h1>
 
 <p align="center">
-  <strong>DevOps/MLOps Engineer</strong><br>
-  Building scalable AI/ML infrastructure, automation pipelines, and self-hosted platforms.
+  <strong>Site Reliability Engineer (SRE)</strong><br>
+  Keeping AI applications reliable, observable, and maintainable.
 </p>
 <p align="center">
   <a href="https://github.com/mambastick?tab=repositories">
@@ -16,9 +16,9 @@
 
 ### About
 
-I design and run infrastructure for ML and software teams: from reproducible environments and delivery pipelines to automation that keeps production systems predictable.
+I support and operate AI applications at Sber, focusing on reliability, observability, and automation.
 
-- Lead MLOps and DevOps work across automation, CI/CD, observability, and self-hosted services.
+- Keep production services stable through clear operational practices and useful monitoring.
 - Build practical tools in **Python** and **C#** when existing systems need glue, guardrails, or a clean operator experience.
 - Keep infrastructure explicit with **Terraform**, **Ansible**, containers, and repeatable deployment flows.
 - Prefer boring reliability, clear ownership, and systems that can be debugged at 03:00 without guesswork.
@@ -59,7 +59,7 @@ I design and run infrastructure for ML and software teams: from reproducible env
   <img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
 </p>
 
-#### MLOps, data, and observability
+#### Data and observability
 
 <p>
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
@@ -85,7 +85,8 @@ I design and run infrastructure for ML and software teams: from reproducible env
 
 ### Current Focus
 
-- **MLOps platforms:** reproducible environments, deployment pipelines, and model-serving infrastructure.
+- **Site reliability:** dependable operation and maintenance of AI applications.
+- **Observability:** metrics, logs, and tracing that make production behavior easier to understand.
 - **Automation:** CI/CD, GitOps, release flows, and routine operations with fewer manual steps.
 - **Self-hosted systems:** observable, maintainable services that can be debugged quickly.
 - **Developer tooling:** small CLIs, integrations, and internal tools that remove operational friction.
